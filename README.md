@@ -23,6 +23,7 @@ Exemplo de resposta:
 	{
 		"id": 1,
 		"nome": "Teclado",
+		"marca": "Dell",
 		"preco": 120.0
 	},
 	{
